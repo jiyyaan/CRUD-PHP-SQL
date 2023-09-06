@@ -1,0 +1,89 @@
+
+		#form-container{
+			background-color: greenyellow;
+			width: 800px;
+			border-radius: 20px;
+			margin-left: calc(50% - 400px);
+		}
+		h1{
+			text-align: center;
+			padding-top: 50px;
+			font-family: arial;
+			font-weight: 900;
+		}
+		.input-text{
+			border: 0px;
+			border-color: grey;
+			width: 300px;
+			height: 35px;
+			border-radius: 10px;
+			font-family: arial;
+			padding-left: 10px;
+			margin-left: 20px;
+		}
+		.Input-Select{
+			border: 0px;
+			border-color: grey;
+			width: 308px;
+			height: 35px;
+			border-radius: 10px;
+			font-family: arial;
+			padding:0px 20px !important;
+			margin-left: 20px;
+		}
+		.marks{
+			border: 0px;
+			border-color: grey;
+			width: 130px;
+			height: 35px;
+			border-radius: 10px;
+			font-family: arial;
+			padding-left: 10px;
+			margin-left: 20px;
+		}
+		.gender{
+			margin-left: 20px;
+		}
+		textarea{
+			margin-left: 20px;
+			width: 300px;
+		}
+		label{
+			font-family: arial;
+			font-size: 13px;
+			font-weight: bold;
+			padding-left: 10px;
+			margin-left: 30px;
+		}
+		#save-button{
+			background-color: black;
+			width: 100px;
+			height: 40px;
+			margin-top: 5px;
+			margin-bottom: 50px;
+			margin-left: calc(100% - 130px);
+			color: whitesmoke;
+			border-radius: 5px;
+			font-weight: bold;
+			text-align: center;
+		}
+		tr{
+			height: 50px;
+		}
+		b{
+			font-family: arial;
+			font-size: 13px;
+			font-weight: bold;
+			padding-left: 5px;
+		}
+		#Birthday_Day{
+			margin-left: 30px;
+		}
+		select{
+			width: 95px;
+			height: 25px;
+		}
+		input:invalid {
+			background: red
+		}
+		
